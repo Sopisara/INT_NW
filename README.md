@@ -1,4 +1,4 @@
 # internet-working-2569
 นางสาวโศภิสรา ศาลางาม 673380261-6 section 1
 
-โฟลเดอร์Lab : [สำหรับรวบรวมงานLabhttps://github.com/Sopisara/internet-working-2569]
+โฟลเดอร์Lab : [สำหรับรวบรวมงานLab][https://github.com/Sopisara/internet-working-2569]
